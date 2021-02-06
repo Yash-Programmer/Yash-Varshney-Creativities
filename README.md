@@ -10,6 +10,7 @@ Skills: Python, Automation
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-Varshney-Creativities&show_icons=true)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yash-Varshney-Creativities&repo=YouTube-Video-Downloader-GUI) 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yash-Varshney-Creativities&repo=Numbers-to-Number-Names) 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Yash-Varshney-Creativities)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14743453/yash-varshney)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Yash_Varshney)  
 
