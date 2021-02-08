@@ -2,6 +2,8 @@
 ###### I am a Boy of Class 5
 I'm Yash from India, and I am an intermediate python programmer. I currently Working on Python Programming Language. I have an interest in Data Analysis, GUI FrameWorks etc.
 
+<img src="Img.gif" alt="Img" width="700">
+
 #### Skills: Python, Automation, Full-Stack-Web Development, GUI FrameWorks, Django Web FrameWork.
 
 - 🔭 I’m currently working on Python 
