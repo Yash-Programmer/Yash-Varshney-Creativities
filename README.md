@@ -8,7 +8,7 @@ I'm Yash from India, and I am an intermediate python programmer. I currently Wor
 - 🌱 I’m currently learning Data Science and Automation With Python 
 - 📫 How to reach me: yash.gurukul12@gmail.com, https://www.reddit.com/user/Yash_Varshney 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-Varshney-Creativities&show_icons=true)
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-Varshney-Creativities&show_icons=true)
 <br>
 #### My Popular Repos
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yash-Varshney-Creativities&repo=YouTube-Video-Downloader-GUI) 
